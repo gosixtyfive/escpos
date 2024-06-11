@@ -1,4 +1,4 @@
-module github.com/hennedo/escpos
+module github.com/justinmichaelvieira/escpos
 
 go 1.14
 
